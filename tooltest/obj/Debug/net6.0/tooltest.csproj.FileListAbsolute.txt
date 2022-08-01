@@ -1,0 +1,15 @@
+D:\document\code\vs\tooltest\tooltest\bin\Debug\net6.0\tooltest.exe
+D:\document\code\vs\tooltest\tooltest\bin\Debug\net6.0\tooltest.deps.json
+D:\document\code\vs\tooltest\tooltest\bin\Debug\net6.0\tooltest.runtimeconfig.json
+D:\document\code\vs\tooltest\tooltest\bin\Debug\net6.0\tooltest.dll
+D:\document\code\vs\tooltest\tooltest\bin\Debug\net6.0\tooltest.pdb
+D:\document\code\vs\tooltest\tooltest\obj\Debug\net6.0\tooltest.csproj.AssemblyReference.cache
+D:\document\code\vs\tooltest\tooltest\obj\Debug\net6.0\tooltest.GeneratedMSBuildEditorConfig.editorconfig
+D:\document\code\vs\tooltest\tooltest\obj\Debug\net6.0\tooltest.AssemblyInfoInputs.cache
+D:\document\code\vs\tooltest\tooltest\obj\Debug\net6.0\tooltest.AssemblyInfo.cs
+D:\document\code\vs\tooltest\tooltest\obj\Debug\net6.0\tooltest.csproj.CoreCompileInputs.cache
+D:\document\code\vs\tooltest\tooltest\obj\Debug\net6.0\tooltest.dll
+D:\document\code\vs\tooltest\tooltest\obj\Debug\net6.0\refint\tooltest.dll
+D:\document\code\vs\tooltest\tooltest\obj\Debug\net6.0\tooltest.pdb
+D:\document\code\vs\tooltest\tooltest\obj\Debug\net6.0\tooltest.genruntimeconfig.cache
+D:\document\code\vs\tooltest\tooltest\obj\Debug\net6.0\ref\tooltest.dll
